@@ -156,7 +156,6 @@ img {
 }
 
 .site-header-right {
-    display: inline-block;
     float: right;
 }
 
@@ -287,7 +286,6 @@ textarea {
     max-height: 450px;
     overflow: hidden;
     float: left;
-    display: inline-block;
 }
 
 .image-box img {
@@ -400,7 +398,6 @@ blockquote footer {
     }
     .photo-contact-form input {
         width: 48%;
-        display: inline-block;
         float: left;
     }
     .photo-contact-form input:nth-child(1), .photo-contact-form input:nth-child(3) {
